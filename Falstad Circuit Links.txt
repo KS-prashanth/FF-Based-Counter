@@ -1,0 +1,11 @@
+-> Rc phase Shift Oscillator using Op- Amp:
+	https://tinyurl.com/ygeghx9q
+-> Summing Amplifier using Op-Amp:
+	https://tinyurl.com/yzd8n9tu
+-> 4 bit Synchronous up Counter:
+	https://tinyurl.com/yf6hs8jf
+-> Final Circuit:
+	https://tinyurl.com/yhrrz6md
+
+
+ 
